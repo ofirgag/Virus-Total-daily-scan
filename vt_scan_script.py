@@ -4,7 +4,7 @@ import time
 from datetime import date
 import json
 
-key = '<Your key>'
+key = '<Your API key>'
 
 
 def vt_request(curr_hash, threshold=5):
